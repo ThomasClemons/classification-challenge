@@ -87,7 +87,7 @@ I answered the following questions:
 >
 > ***Question 2:  How does that compare to your prediction?***
 >
-> **Answer:  I predicted Random Forest would perfrom better and the results match my prediction.**
+> **Answer:  I predicted Random Forest would perform better and the results match my prediction.**
 >
 ---
 ## Help
