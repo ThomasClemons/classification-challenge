@@ -39,7 +39,7 @@ This challenge consists of the following subsections:
 
 2. I made a prediction as to which model I expected to do better.
 
-> **My Prediction: Since I don't know a lot about the data and don't have an opportunity to ask any clarifying quesitons, I predict Random Forest will perform better that Logistic Regression.  In general, Random Forest seems more robust than Logistic Regression in modeling connections between the predictor values and the result.  Random Forest uses predictions of numerous decision trees to make a final prediction, it handles linear and non-linear relationships between the variables, and handles high-dimensional data with less risk of overfitting.**
+> **My Prediction: I predict Random Forest will perform better than Logistic Regression. In general, Random Forest seems more robust than Logistic Regression in modeling connections between the predictor values and the result. Random Forest uses predictions of numerous decision trees to make a final prediction, it handles linear and non-linear relationships between the variables, and handles high-dimensional data with less risk of overfitting. Also, in reviewing the dataset information, the Baseline Model Performance illustrates that the Random Forest model is more accurate and precise than the Logistic Regression model for this dataset.**
 >
 
 3. I created the labels set (y) from the “spam” column, and then created the features (X) DataFrame from the remaining columns.
@@ -87,7 +87,7 @@ I answered the following questions:
 >
 > ***Question 2:  How does that compare to your prediction?***
 >
-> **Answer:  I predicted Random Forest and the results match my prediction.**
+> **Answer:  I predicted Random Forest would perfrom better and the results match my prediction.**
 >
 ---
 ## Help
